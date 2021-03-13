@@ -1,2 +1,2 @@
 # Slide in on Scroll
- Easy to use slide-in on scroll effect
+ Easy to use Slide in on scroll effect...
